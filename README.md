@@ -1,2 +1,23 @@
-# Donalddeep
-Training a recurrent neural network (RNN) using long short term memory (LSTM) on tweets, rally transcripts, and press briefings of President Donald Trump (45) to create generative predictions
+![](img/DDcover.jpg)
+
+![](img/DDobjective.jpg)
+
+![](img/DDwhy.jpg)
+
+![](img/DDsequence.jpg)
+
+![](img/DDvocabmatrix.jpg)
+
+![](img/DDNNbasics.jpg)
+
+![](img/DDcloudcomp.jpg)
+
+![](img/DDepochs.jpg)
+
+![](img/DDhyperparams.jpg)
+
+![](img/DDoutput1.jpg)
+
+![](img/DDoutput2.jpg)
+
+![](img/DDfinish.jpg)
